@@ -1,0 +1,35 @@
+.book {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .book-image {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .book-info {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .book-info h3 {
+    font-size: 18px;
+    color: #333;
+    margin: 0;
+  }
+  
+  .book-info p {
+    font-size: 14px;
+    color: #777;
+  }
+  

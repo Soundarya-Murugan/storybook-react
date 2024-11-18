@@ -1,0 +1,22 @@
+.book-detail {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .book-detail h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .book-detail .book-image {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .book-detail p {
+    font-size: 16px;
+    color: #555;
+  }
+  
